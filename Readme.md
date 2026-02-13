@@ -1,5 +1,5 @@
 # WSAM_Style
-Visual explanations of Style augmentation influence. [link](https://fmorenovr.github.io/documents/papers/conferences/2023_VISAPP.pdf)
+Visual explanations of Style augmentation influence. [Paper](https://fmorenovr.github.io/documents/papers/conferences/2023_VISAPP.pdf)
 
 # Installation
 
