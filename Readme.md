@@ -38,3 +38,8 @@ python3 -m pip install -r requirements.txt
   issn={2184-4321},
 }
 ```
+
+
+
+# Contact us  
+For any issue please kindly email to `felipe [dot] moreno [at] fgv [dot] br`
